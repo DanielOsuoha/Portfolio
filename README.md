@@ -9,6 +9,7 @@ I am passionate about combining programming and cybersecurity to create innovati
 ## Skills
 
 ### Languages
+
 - Python
 - Java
 - JavaScript
@@ -17,6 +18,7 @@ I am passionate about combining programming and cybersecurity to create innovati
 - PHP
 
 ### Frameworks & Libraries
+
 - Django
 - Flask
 - React
@@ -27,6 +29,7 @@ I am passionate about combining programming and cybersecurity to create innovati
 - Sklearn
 
 ### Tools & Technologies
+
 - AWS
 - GCP
 - MySQL
@@ -41,14 +44,17 @@ I am passionate about combining programming and cybersecurity to create innovati
 ## Projects
 
 ### Project 1: Stock and Crypto Price Tracker with Prediction
+
 - Developed a price tracking app with Flask and Python, integrating real-time stock and cryptocurrency data from the Yahoo Finance API.
 - Designed predictive models using TensorFlow to forecast crypto prices based on historical market data.
 
 ### Project 2: Banking Application
+
 - Created a banking app with Django, incorporating authentication, KYC, and transactions; deployed on Railway with AWS S3 for scalability.
 - Implemented virtual card features for payments and withdrawals, with real-time notifications to enhance user engagement.
 
 ### Project 3: Real-Time Credit Card Fraud Detection System
+
 - Developed a real-time fraud detection system using Apache Spark for distributed processing and Kafka for streaming transaction data.
 - Automated workflows using Apache Airflow to schedule and monitor Spark jobs for reliable fraud detection.
 
@@ -59,6 +65,7 @@ Grambling State University  |  GPA: 4.0/4.0
 **Relevant Coursework**: Data Structures & Algorithms, Software Design, Operating Systems, Web Development, Software Engineering Principles
 
 ## Honors & Awards
+
 - Grow with Google Scholarship Recipient
 - Winner of the IBM 2024 HBCU CTF
 - Presidential Scholar, GSU
@@ -69,18 +76,24 @@ Grambling State University  |  GPA: 4.0/4.0
 ## Professional Experience
 
 ### Bloomberg
+
 **Software Engineering, Princeton Tech Lab**  
 July 2024 – September 2024  
+
 - Built a financial trading application using JavaScript, Python, React.js, and Django, supporting over 1,000 users with real-time trading and data analytics.
 
 ### Microsoft
+
 **Software Engineering Teaching Assistant, TEALS**  
 June 2024 – Present  
+
 - Created tailored tutorials and practice problems to enhance student understanding of programming fundamentals.
 
 ### Prodigy Infotech
+
 **Software Engineering & Cybersecurity Intern**  
 February 2024 – April 2024  
+
 - Engineered a Python keylogger secured with an Express and Node.js server on AWS EC2 for remote logging and data integrity.
 
 ## Contact
